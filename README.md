@@ -8,4 +8,8 @@ The repository can be cloned and it should work out of the box as of October 1, 
 
 ## Context
 
-This app was created in connection with the course mobile programming in the bachelor of programming at the Norwegian University of Science and Technology, cohort 2021.
+This application was created in connection with the course mobile programming in the bachelor of programming at the Norwegian University of Science and Technology, cohort 2021.
+
+## Demo
+
+<img width="214" alt="App_demo" src="https://github.com/ArnaudDuhamel/bmi_calculator/assets/113102976/09649267-db0d-442e-8a29-d88f0e4a0627">
